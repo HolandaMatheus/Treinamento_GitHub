@@ -6,5 +6,5 @@ Status do projeto: Em desenvolvimento
 
 Como incluir uma linha de forma a colocar o comando/código em evidência:
 ```
-git status
+node app.js
 ```
